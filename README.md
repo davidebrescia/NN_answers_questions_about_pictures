@@ -9,7 +9,7 @@ For example:
 
 "How many people are there?"
 
-We want to develop a software that gives a correct answer to that question:  
+We want to develop a software that gives the correct answer to that question:  
 Output: "3"
 
 Another example:
