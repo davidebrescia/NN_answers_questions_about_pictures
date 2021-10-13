@@ -23,7 +23,7 @@ Output: "Yellow"
 Of course, it is a very ambitious task. If the software were capable of handling any kind of picture-question, we would have basically created a human. 
 
 To simplify the problem:
-1. The possible pictures that the software can handle are simple 'cartoon' styled, as the ones just shown
+1. The possible pictures that the software can handle are 'cartoon' styled, as the ones just shown
 2. The software can just give 58 predefined answers ('yes', 'no', 'black', 'red', '0', '1', '2', 'pie', 'plant', 'floor', ...)
 
 Basically, it becomes a classification problem with 58 classes.
