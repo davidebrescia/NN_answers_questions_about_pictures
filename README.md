@@ -29,7 +29,7 @@ To simplify the problem:
 Basically, it becomes a classification problem with 58 classes.
 
 ## Results
-Briefly, a CNN extracts some features of the picture, a LSTM network exctacts question context. The concatenation of the features and the context is the input of a classifier, which is a Dense NN. For more details, please read "Report.pdf" and the Python notebook. For the dataset, contact me.  
+Briefly, a CNN extracts some features of the picture, while a LSTM network extracts the context of the question. The concatenation of the features and the context is the input of a classifier, which is a Dense NN. For more details, please read "Report.pdf" and the Python notebook. For the dataset, contact me.  
 
 The best model has a test accuracy of 58.2%
 
